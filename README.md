@@ -48,12 +48,26 @@ Key Transformations:
 [View Live Data Story Here](https://public.tableau.com/views/NTSBAviationAccidentAnalysisWeatherGeographyManufacturerTrendsDataStory/NTSBAviationAccidentAnalysis?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
  
 This Tableau Story consists of 5 connected dashboards that guide users from high-level trends to more detailed insights:
+
+
+
+
  
 - **Aviation Accident Trends (1982–2022)** — line chart showing annual accident frequency, highlighting long-term changes over four decades
+<img width="900" height="843" alt="Aviation crash trends 1982-2022" src=" "/>
+
 - **Monthly Injury Analysis** — compares average fatal injuries, total injuries, and uninjured passengers to surface seasonal patterns
+<img width="900" height="815" alt="Injuries by month 1982-2021" src=" "/>
+
+
 - **Weather Impact Analysis** — compares accidents under Visual Meteorological Conditions (Clear Visibility) vs. Instrument Meteorological Conditions (Poor Visibility) to examine how weather influences severity
+<img width="900" height="90" alt="Total aviation crashes by weather condition" src=" "/>
+
 - **Geographic Analysis** — interactive map focused on the United States region, displaying accident distribution by location
+<img width="900" height="547" alt="Crashes by weather, United States map" src=" "/>
+
 - **Aircraft Manufacturer Analysis** — bar chart comparing Boeing and Cessna aircraft models by fatal injury totals and historical accident distribution
+<img width="900" height="728" alt="Fatalities by top 10 aircraft manufacturer" src=" "/>
 
 ## Key Takeaways
  
